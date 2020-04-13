@@ -1,6 +1,10 @@
 ## Project Desctiption
 
-To create and do accuracy analysis on an SfM-MVS product
+To create and do accuracy analysis on an SfM-MVS product 
+
+<img src="images/cloud.png" width=600>
+<img src="images/main-target-distribution.jpg" width=600> 
+<img src="images/ortho-map.jpg" width=600> 
 
 ## Project Location
 
@@ -46,6 +50,7 @@ Latitude,Longitude (EPSG:4326) and GPS Altitude (m)
 The Folder contains two files.
 - TargetCoordinates_wAccuracy.csv
 - ImageTargets.csv
+
 
 
 ###### TargetCoordinates_wAccuracy.csv:
