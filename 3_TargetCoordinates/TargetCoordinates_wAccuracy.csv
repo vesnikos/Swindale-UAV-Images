@@ -1,4 +1,4 @@
-Label,Easting,Northing,Height,Accuracy_horizontal,Accuracy_Vertical
+Label,Easting,Northing,Height,Accuracy_xx,Accuracy_yy,Accuracy_zz
 StkdT_12389,351339.5035,512979.4758,264.6797,0.00475,0.00475,0.0107
 StkdT_12388,351339.2104,513050.6811,265.9339,0.0038,0.0038,0.0082
 StkdT_12387,351213.7483,512973.6016,264.2064,0.00435,0.00435,0.009
